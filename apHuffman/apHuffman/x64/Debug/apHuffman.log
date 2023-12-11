@@ -1,0 +1,11 @@
+﻿  FrequencyCounter.cpp
+C:\Users\elois\Desktop\apHuffman\apHuffman\FrequencyCounter.cpp(18,1): error C1010: fim de arquivo inesperado durante procura por cabeçalho pré-compilado. Você esqueceu de adicionar '#include "pch.h"' à sua fonte?
+  Huffman.cpp
+C:\Users\elois\Desktop\apHuffman\apHuffman\Huffman.cpp(199,1): error C1010: fim de arquivo inesperado durante procura por cabeçalho pré-compilado. Você esqueceu de adicionar '#include "pch.h"' à sua fonte?
+  HuffmanUtility.cpp
+C:\Users\elois\Desktop\apHuffman\apHuffman\HuffmanUtility.cpp(38,1): error C1010: fim de arquivo inesperado durante procura por cabeçalho pré-compilado. Você esqueceu de adicionar '#include "pch.h"' à sua fonte?
+  main.cpp
+C:\Users\elois\Desktop\apHuffman\apHuffman\main.cpp(43,1): error C1010: fim de arquivo inesperado durante procura por cabeçalho pré-compilado. Você esqueceu de adicionar '#include "pch.h"' à sua fonte?
+  Node.cpp
+C:\Users\elois\Desktop\apHuffman\apHuffman\Node.cpp(38,1): error C1010: fim de arquivo inesperado durante procura por cabeçalho pré-compilado. Você esqueceu de adicionar '#include "pch.h"' à sua fonte?
+  Gerando Código...
